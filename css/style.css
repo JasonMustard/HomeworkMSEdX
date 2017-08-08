@@ -1,11 +1,11 @@
 body {
     color: #635959;
-    font-family: 'News Cycle';
+    font-family: 'News Cycle', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 header{ 
     background-color: #242323;
     color: #efefef;
-    font-family: 'Contrail One';
+    font-family: 'Contrail One', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 h3, article h4 {
     color: #8c1018;
